@@ -1,9 +1,11 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI workflow template.",
+    "name": "Docker build ala nrapken",
+    "description": "nrapken CI workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Go"
+        "Go",
+        "Python",
+        "Docker"
     ],
     "filePatterns": [
         "package.json$",
